@@ -1,6 +1,8 @@
 GeoServer on OpenShift
 ======================
 
+View this live at [http://geopaas.io](http://geopaas.io).
+
 To fully appreciate what is happening here please read the [blog post](https://www.openshift.com/blogs/build-your-own-google-maps-and-more-with-geoserver-on-openshift) by Steven on which this demo is based.
 
 Create the gear.
